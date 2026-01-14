@@ -1,3 +1,4 @@
+Bài tập 1 (ex_1): Trải nghiệm kiểm thử giao diện với CantUnsee
 # Student Score Analysis
 
 Bài tập thực hành kiểm thử với JUnit - Phân tích dữ liệu điểm số học sinh.
@@ -45,5 +46,6 @@ Nếu bạn đã tải các file jar của JUnit Platform Console Standalone (v�
 
 ## Tác giả
 Sinh viên thực hành: Nguyễn Khắc Tuấn Bách
+
 
 
