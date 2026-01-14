@@ -44,4 +44,6 @@ Nếu bạn đã tải các file jar của JUnit Platform Console Standalone (v�
    ```
 
 ## Tác giả
-Sinh viên thực hành: [Tên của bạn]
+Sinh viên thực hành: Nguyễn Khắc Tuấn Bách
+
+
